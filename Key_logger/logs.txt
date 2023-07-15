@@ -1,0 +1,1 @@
+Key.print_screenKey.backspace'G''U''I'Key.shiftKey.enter

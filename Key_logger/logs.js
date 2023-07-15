@@ -1,0 +1,1 @@
+[{"Pressed": "Key.print_screen"}, {"Held": "Key.print_screen"}, {"Released": "Key.print_screen"}, {"Held": "Key.backspace"}, {"Released": "Key.backspace"}, {"Held": "Key.shift"}, {"Held": "'G'"}, {"Released": "'G'"}, {"Held": "'U'"}, {"Released": "'U'"}, {"Held": "'I'"}, {"Released": "'I'"}, {"Released": "Key.shift"}, {"Held": "Key.enter"}, {"Released": "Key.enter"}]
